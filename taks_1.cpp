@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//test
 // Написати функцію, що додає рядок двовимірному масиву в кінець.
 
 void init2DArray(int**& arr, int rows, int cols)
